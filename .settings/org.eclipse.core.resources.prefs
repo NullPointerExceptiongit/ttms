@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/main/java/cn/tedu/ttms/attachement/service/impl/AttachementServiceImpl.java=GBK
+encoding//src/main/java/cn/tedu/ttms/common/controller/MD5.java=GBK
+encoding//src/main/java/cn/tedu/ttms/common/exception/ControllerExceptionHandler.java=UTF-8
+encoding//src/main/java/cn/tedu/ttms/common/web/JsonResult.java=UTF-8
+encoding//src/main/java/cn/tedu/ttms/common/web/PageObject.java=UTF-8
+encoding//src/main/java/cn/tedu/ttms/project/controller/ProjectController.java=UTF-8
+encoding//src/main/java/cn/tedu/ttms/project/dao/ProjectDao.java=UTF-8
+encoding//src/main/java/cn/tedu/ttms/project/entity/Project.java=UTF-8
+encoding//src/main/java/cn/tedu/ttms/project/service/ProjectService.java=UTF-8
+encoding//src/main/java/cn/tedu/ttms/project/service/impl/ProjectServiceImpl.java=UTF-8
+encoding//src/main/webapp/WEB-INF/pages/common/modal.jsp=UTF-8
+encoding//src/test/java/project/dao/TestProjectDao.java=UTF-8
